@@ -1,1 +1,1 @@
-This is a Digital Clock made with only javascript
+This is a Javascript Digital Clock made with only javascript
